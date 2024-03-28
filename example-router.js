@@ -1,4 +1,4 @@
 function exampleRouteHandler(req, res) {
-  res.send("hii every one iam LEVIN S Goodbye MSC CS!  ");
+  res.send("hiiGoodbye MSC CS!  ");
 }
 module.exports = exampleRouteHandler;
